@@ -1,0 +1,7 @@
+*.o
+*.a
+*.log
+*.status
+
+out/
+compile_commands.json
